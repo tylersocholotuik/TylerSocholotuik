@@ -20,7 +20,7 @@ My academic work is in private repositories that I do no have permission to shar
 
 A respsonsive website that allows a user to enter the weight, repetitions, and RPE (Rate of Perceived Exertion) of a set they have performed in any resistance training exercise
 and calculate their estimated one-rep max. It also displays a table showing the estimated amount of weight they can lift for a different number of repetitions and RPE ratings
-(1-10 reps, RPE 6-10). It has a home page with and introduction and basic instructions for the calculator function, and an About RPE page with a short article and table explaining the concept of RPE.
+(1-10 reps, RPE 6-10). It has a home page with an introduction and basic instructions for the calculator function, and an About RPE page with a short article and table explaining the concept of RPE.
 
 [View the public respository for this project](https://github.com/TylerSocholotuik/one-rep-max-calculator)
 
