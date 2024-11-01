@@ -1,20 +1,23 @@
 Hi, I'm Tyler Socholotuik.
 
-I'm currently a first-year student of the Digital Media and IT - Software Development Concentration at the Northern Alberta Institute of Technology in Edmonton, AB. I am thoroughly enjoying the program, and I achieved a 4.0 GPA in the first semester. 
-I am hoping to obtain a Work-Integrated Learning (Co-op) position in spring 2024 to gain industry experience and kickstart my career.
+I'm currently a second-year student of the Digital Media and IT - Software Development Concentration at the Northern Alberta Institute of Technology in Edmonton, AB. 
 
 ### What I've learned so far
 
 - C# Programming Fundamentals (arithmetic, decisions, loops, arrays, methods, classes and objects)
 - SQL Database Fundamentals (normalization, DML, SPROCs, Triggers)
 - Web Design Fundamentals (semantic HTML, CSS, responsive web design)
-- (In progress) Client-Side JavaScript (event handling, functions, arrays, loops)
-- (In progress) Systems Analysis - (ADEPT, Data Flow Diagrams)
+- Client-Side JavaScript (event handling, functions, arrays, loops)
+- Systems Analysis - (ADEPT, Data Flow Diagrams)
 - Communication (professional writing, presentations, research, team-work, meetings)
 
-### Portfolio Projects
+### What I'm learning right now
 
-My academic work is in private repositories that I do no have permission to share, so I completed a personal project to demonstrate my skills.
+- Online Transaction Processing with .NET Blazor applications
+- Front-End Development with Next.js/React
+- Project Management
+
+### Portfolio Projects
 
 #### loadLogic One-Rep Max Calculator
 
