@@ -10,22 +10,11 @@ I'm currently a second-year student of the Digital Media and IT - Software Devel
 - Client-Side JavaScript (event handling, functions, arrays, loops)
 - Systems Analysis - (ADEPT, Data Flow Diagrams)
 - Communication (professional writing, presentations, research, team-work, meetings)
-
-### What I'm learning right now
-
 - Online Transaction Processing with .NET Blazor applications
 - Front-End Development with Next.js/React
+- Mobile Development with Flutter
+- REST API Development with FastAPI (Python), Jakarta EE (Java)
 - Project Management
-
-### Portfolio Projects
-
-#### loadLogic One-Rep Max Calculator
-
-A responsive website that allows a user to enter the weight, repetitions, and RPE (Rate of Perceived Exertion) of a set they have performed in any resistance training exercise
-and calculate their estimated one-rep max. It also displays a table showing the estimated amount of weight they can lift for a different number of repetitions and RPE ratings
-(1-10 reps, RPE 6-10). It has a home page with an introduction and basic instructions for the calculator function, and an About RPE page with a short article and table explaining the concept of RPE.
-
-[View the public respository for this project](https://github.com/TylerSocholotuik/one-rep-max-calculator)
 
 ### Contact
 
