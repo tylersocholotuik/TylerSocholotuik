@@ -1,6 +1,6 @@
 Hi, I'm Tyler Socholotuik.
 
-I'm currently a second-year student of the Digital Media and IT - Software Development Concentration at the Northern Alberta Institute of Technology in Edmonton, AB. 
+I'm a recent graduate of the Digital Media and IT - Software Development Concentration at the Northern Alberta Institute of Technology in Edmonton, AB. 
 
 ### What I've learned so far
 
